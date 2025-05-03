@@ -48,6 +48,7 @@ cd api-springboot
 
 ./gradlew bootRun
 ```
-### Deploy no Heroku
+
+## Deploy no Heroku
 - Este projeto está configurado para deploy no Heroku. O arquivo Procfile está presente na raiz do projeto para facilitar o processo de deploy.
 
