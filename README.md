@@ -12,7 +12,7 @@ Este projeto é uma API RESTful desenvolvida com Spring Boot, utilizando o Gradl
 ## Estrutura do Projeto
 
 O projeto segue a estrutura padrão de aplicações Spring Boot:
-
+```
 api-springboot/
 ├── src/
 │ ├── main/
@@ -29,7 +29,7 @@ api-springboot/
 ├── build.gradle
 ├── settings.gradle
 └── Procfile
-
+```
 
 ## Como Executar o Projeto
 
